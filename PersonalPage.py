@@ -211,4 +211,4 @@ class Personal:
 
 
 if __name__ == '__main__':
-    a = Personal(201627509, "김종음")
+    a = Personal(1111, "")
