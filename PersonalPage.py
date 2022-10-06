@@ -118,7 +118,7 @@ class Personal:
                 self.refresh()
 
             else:
-                reserv = msgbox.askquestion("알림", "대출 가능환 서적이 존재하지 않습니다. 해당 도서를 예약하시겠습니까?")
+                reserv = msgbox.askquestion("알림", "대출 가능한 서적이 존재하지 않습니다. 해당 도서를 예약하시겠습니까?")
                 if reserv == 'yes':
                     self.reservation()
 
