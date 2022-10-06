@@ -112,4 +112,4 @@ class RentalList:
 
 
 if __name__ == '__main__':
-    a = RentalList(201627509, "김종음")
+    a = RentalList(1111, "master")
